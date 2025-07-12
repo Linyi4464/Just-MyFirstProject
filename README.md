@@ -1,2 +1,3 @@
 # Just-MyFirstProject
-a project thanks!!!
+#简介
+This is my first project,it's use to use
